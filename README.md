@@ -48,6 +48,10 @@ to switch off and switch on the system.*
 
 
 
+<img width="654" alt="Screenshot 2022-10-21 at 4 48 48 PM" src="https://user-images.githubusercontent.com/91950083/197184179-32034522-539f-4829-832a-03721c5efab0.png">
+
+
+
 ## Reference 
 1.	Arduino Lessons by Paul McWhorter  
 https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-
