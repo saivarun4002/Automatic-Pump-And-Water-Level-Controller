@@ -50,6 +50,8 @@ to switch off and switch on the system.*
 
 <img width="654" alt="Screenshot 2022-10-21 at 4 48 48 PM" src="https://user-images.githubusercontent.com/91950083/197184179-32034522-539f-4829-832a-03721c5efab0.png">
 
+as we can see green pointer it will indicate the height of the water level in the water tank , by providing the respective percentage by our screen, if water level is close then our led light will glow off and servo motor stops, this prevents overflow of water and helps in save much water
+
 
 
 ## Reference 
